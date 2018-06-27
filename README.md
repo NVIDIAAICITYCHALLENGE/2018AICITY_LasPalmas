@@ -23,4 +23,4 @@ This repository contains our implementation to vehicle re-identification. We use
 
 ## Reference
 
-Pedro A. Marín-Reyes, Andrea Palazzi, Luca Bergamini, Simone Calderara, Javier Lorenzo-Navarro, Rita Cucchiara. “Unsupervised Vehicle Re-Identification using Triplet Networks”, in Proc. IEEE/CVF International Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). Salt Lake City, EEUU, June 2018. (Accepted)
+Pedro A. Marín-Reyes, Andrea Palazzi, Luca Bergamini, Simone Calderara, Javier Lorenzo-Navarro, Rita Cucchiara. <a href="http://mozart.dis.ulpgc.es/~pedro/resources/pdf/cvpr18.pdf"> Unsupervised Vehicle Re-Identification using Triplet Networks</a>, in Proc. IEEE/CVF International Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). Salt Lake City, EEUU, June 2018.
